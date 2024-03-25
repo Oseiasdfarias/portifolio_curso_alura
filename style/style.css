@@ -181,6 +181,18 @@ body {
     font-family: var(--fonte--secundaria);
 }
 
+.custom_lista2 {
+    font-size: 1.0rem;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    font-family: var(--fonte--secundaria);
+}
+
 .color_lista {
     color:burlywood;
 }
